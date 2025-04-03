@@ -5,14 +5,14 @@ Timeline Explorer is a web application built using **Next.js** and **Tailwind CS
 
 ## ⚙️ Technologies Used
 ### the technologies used in Timeline Explorer based on the extracted files are:
--**Next.js (React framework for server-side rendering and static site generation)**
--**Tailwind CSS (Utility-first CSS framework for styling)**
--**TypeScript (Typed superset of JavaScript)**
--**pnpm (Fast and efficient package manager)**
--**PostCSS (CSS processing tool)**
--**ESLint (Linting tool for code quality)**
--**Prettier (Code formatter)**
--**React (Library for building UI components)**
+- **Next.js (React framework for server-side rendering and static site generation)**
+- **Tailwind CSS (Utility-first CSS framework for styling)**
+- **TypeScript (Typed superset of JavaScript)**
+- **pnpm (Fast and efficient package manager)**
+- **PostCSS (CSS processing tool)**
+- **ESLint (Linting tool for code quality)**
+- **Prettier (Code formatter)**
+- **React (Library for building UI components)**
 
 ## ✨ Features
 - 📅 **Interactive timeline visualization**
