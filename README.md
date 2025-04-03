@@ -39,13 +39,6 @@ cd TimelineExplorer
 pnpm install
 ```
 
-## 🚀 Usage
-
-### 🔄 Development Server
-To start the development server, run:
-```bash
-pnpm dev
-```
 Watch it Live here [`TimeLineExplorer`](http://localhost:3000/).
 
 ### 📦 Build for Production
