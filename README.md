@@ -40,7 +40,7 @@ cd TimelineExplorer
 pnpm install
 ```
 
-Watch it Live here [`TimeLineExplorer`](http://localhost:3000/).
+Watch it Live here [`TimeLineExplorer`](https://timelineexplorer.vercel.app/).
 
 ### 📦 Build for Production
 To create an optimized production build, run:
