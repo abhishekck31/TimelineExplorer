@@ -4,7 +4,7 @@
 Timeline Explorer is a web application built using **Next.js** and **Tailwind CSS**. It provides an interactive timeline exploration experience, leveraging modern UI components and performance optimizations.
 
 ## ⚙️ Technologies Used
-### the technologies used in Timeline Explorer based on the extracted files are:
+### the technologies used in Timeline Explorer are:
 - **Next.js (React framework for server-side rendering and static site generation)**
 - **Tailwind CSS (Utility-first CSS framework for styling)**
 - **TypeScript (Typed superset of JavaScript)**
