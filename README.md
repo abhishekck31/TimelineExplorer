@@ -15,6 +15,7 @@ Timeline Explorer is a web application built using **Next.js** and **Tailwind CS
 - **React (Library for building UI components)**
 
 ## ✨ Features
+- 📱**Dark and White Mode Toogle (Check on Right Corner Home Screen)**
 - 📅 **Interactive timeline visualization**
 - 📱 **Responsive design with Tailwind CSS**
 - 🚀 **Optimized performance using Next.js features**
